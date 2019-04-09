@@ -1,12 +1,13 @@
-﻿# [arachnid](https://github.com/arachn/arachnid) 
-####  © qitas@qitas.cn
-## [简介](https://github.com/OS-Q/arachn/arachnid/wiki) 
+﻿# [arachnid](https://github.com/arachn) 
+####  qitas@qitas.cn 
+####  www.arachn.com
+## [简介](https://github.com/arachn/arachnid/wiki) 
 
-爬虫设备，用于实施移动管理和处理
+智慧农场户外移动式工具设备载体，也是实现无人化生成管理的核心设备平台
 
-###  [项目详情](https://github.com/orgs/arachn/projects) 
+###  [项目详情](https://github.com/orgs/arachn/projects/2) 
 
-通过接地爬虫或网线爬虫实现全空间的覆盖管理
+- 牵线设备
+- 轮式设备
 
-
-###  [战天斗地，精耕细织](http://www.arachn.com)
+####  [精耕细织Arachn](https://github.com/arachn/arachne)
