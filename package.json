@@ -1,6 +1,15 @@
 {
-    "name": "A26A",
-    "description": "Arduino Wiring-based Framework (GD32V Core)",
+    "name": "A22",
     "version": "0.1.1",
-    "url": "https://github.com/sipeed/Longduino"
+    "description": "Arduino Wiring-based Framework for GigaDevice GD32V microcontrollers",
+    "keywords": [
+        "framework",
+        "arduino",
+        "risc-v",
+        "gigadevice"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sipeed/Maixduino"
+    }
 }
